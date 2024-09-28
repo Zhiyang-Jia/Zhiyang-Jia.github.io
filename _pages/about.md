@@ -15,7 +15,7 @@ I have also explored topics such as workers' capacity to work from home, measuri
 
 I have also taught applied econometrics at both the master's and PhD levels at the Department of Economics, University of Oslo.
 
-Let me know if this works or if you'd like further edits!
+
 
 
 
