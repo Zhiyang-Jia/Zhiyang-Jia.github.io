@@ -2,7 +2,7 @@
 title: "Econ4137 Applied Micro Econometrics: Spring 2021, Spring 2020, and Spring 2019"
 collection: teaching
 type: "MSc course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: https://www.uio.no/studier/emner/sv/oekonomi/ECON4137/
 venue: "Department of Economics, University of Oslo"
 location: "Oslo, Norway"
 ---
