@@ -4,7 +4,6 @@ collection: teaching
 type: "MSc course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Department of Economics, University of Oslo"
-date: 
 location: "Oslo, Norway"
 ---
 
