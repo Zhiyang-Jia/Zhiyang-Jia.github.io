@@ -20,6 +20,9 @@ Work experience
 * July 2004 - now: Senior Researcher, Researcher
   * Research Department, Statistics Norway
 
+* Fall 2000 - Spring 2004: Doctoral Research Fellow
+  * Department of Economcis, Univeristy of Oslo   
+
 * Fall 2018 - Spring 2022: Lecturer (part time) 
   * Department of Economcis, Univeristy of Oslo
 
