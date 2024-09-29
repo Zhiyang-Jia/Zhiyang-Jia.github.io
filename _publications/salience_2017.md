@@ -3,7 +3,7 @@ title: "Salience and Social Security Benefits"
 collection: publications
 category: manuscripts
 permalink: /publication/salience_2017
-excerpt: 'C. Brinch, E. Hernæs.'
+excerpt: 'with C. Brinch, E. Hernæs.'
 date: 2017-10-01
 venue: 'Journal of Labor Economics'
 slidesurl: ''
