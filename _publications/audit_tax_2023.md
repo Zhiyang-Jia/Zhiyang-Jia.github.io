@@ -2,7 +2,7 @@
 title: "Do Audits Improve Future Tax Compliance in the Absence of Penalties? Evidence from Random Audits in Norway"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/audit_tax_2023
 excerpt: 'with S. Hebous, T. O. Thoresen, K. Løyland and A. Øvrum.'
 date: 2023-10-01
 venue: 'Journal of Economic Behavior and Organization'
