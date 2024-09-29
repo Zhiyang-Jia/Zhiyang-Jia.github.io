@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-*  July 2004 - now: Senior Researcher, Researcher
+* July 2004 - now: Senior Researcher, Researcher
   * Research Department, Statistics Norway
 
 * Fall 2018 - Spring 2022: Lecturer (part time) 
