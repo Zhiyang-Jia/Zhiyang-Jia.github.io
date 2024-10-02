@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiyang Jia"
+title                    : "Zhiyang Jia / 贾之阳"
 title_separator          : "-"
 name                     : &name "Zhiyang Jia"
 description              : &description "personal description"
