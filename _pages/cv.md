@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, Department of Economics, University of Oslo, 2004 
-* M.S. in Economics, Department of Economics, University of Oslo, 2000 
-* B.S. in Mathematics, Department of Mathematics, Fudan University, 1997
 
 Work experience
 ======
