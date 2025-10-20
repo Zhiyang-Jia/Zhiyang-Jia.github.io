@@ -2,7 +2,7 @@
 title: "Social Security Pension Generosity and the Effect on Household Saving"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/pension_saving_2024
 excerpt: 'with E. Halvorsen, H. Kruse and T. Vigtel.'
 date: 2024-10-01
 venue: 'Scandinavian Journal of Economics'
