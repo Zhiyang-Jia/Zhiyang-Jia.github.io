@@ -2,7 +2,7 @@
 title: "Work less but stay longer – Mature worker responses to a flexibility reform"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/gradual_2025
 excerpt: 'with Erik Hernæs, John Piggott, and Trond Christian Vigtel'
 date: 2025-08-26
 venue: 'Labour Economics'
